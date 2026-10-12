@@ -1,0 +1,6 @@
+{
+  "name": "DB-Connect",
+  "description": "Votre passerelle vers le numérique. Plateforme technologique et écosystème de services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

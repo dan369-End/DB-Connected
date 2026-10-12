@@ -1,0 +1,12 @@
+export { LandingPage } from './LandingPage';
+export { PublicHeader } from './components/PublicHeader';
+export { LandingHero } from './components/LandingHero';
+export { ModulesOverview } from './components/ModulesOverview';
+export { AcademySection } from './components/AcademySection';
+export { MarketplaceSection } from './components/MarketplaceSection';
+export { ServicesSection } from './components/ServicesSection';
+export { OpportunitiesSection } from './components/OpportunitiesSection';
+export { HowItWorksSection } from './components/HowItWorksSection';
+export { WhyChooseSection } from './components/WhyChooseSection';
+export { FinalCtaSection } from './components/FinalCtaSection';
+export { PublicFooter } from './components/PublicFooter';
